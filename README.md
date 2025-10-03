@@ -1,14 +1,14 @@
-# Hi there 👋 I'm 혜원!
+# Hi there 👋 I'm Hyewon!
 
 🌟 AI 연구자이자 그래프와 LLM기반 연구를 하는 개발자입니다.  
-Solid State Physics(DFT)에서 시작해 지금은 Knowledge Graph 기반 RAG와 GNN 연구까지 확장 중 입니다. 
+GNN과 LLM 기반 연구를 진행하며, 주 분야는 RAG이고 최근에는 특히 Graph RAG 연구에 집중하고 있습니다.  
 
 ---
 
 ## 🚀 About Me
-- 🔭 현재 연구: GraphRAG, PaGE-Link, KGQA
-- 📚 관심 분야: Graph Neural Network, LLM Fine-tuning, Solid State Physics
-- 🌱 공부 중: CUDA 최적화, 대규모 그래프 처리, Multilingual RAG
+- 🔭 현재 연구: GraphRAG 및 RAG 기반 KGQA
+- 📚 주요 분야: Graph Neural Network(GNN), Large Language Models(LLM), Retrieval-Augmented Generation(RAG)
+- 🌱 최근 관심: Multilingual RAG, LLM Fine-tuning
 - 📫 연락: [noweyh927@gmail.com](mailto:noweyh927@gmail.com)
 
 ---
@@ -21,8 +21,8 @@ Solid State Physics(DFT)에서 시작해 지금은 Knowledge Graph 기반 RAG와
 ---
 
 ## 🔥 Featured Projects
-- [GraphRAG](https://github.com/noweyh/GraphRAG) — Knowledge Graph 기반 RAG 프레임워크
-- [PaGE-Link](https://github.com/noweyh/PaGE-Link) — Path-based GNN Explanation
+- [MPR-CiteG](https://github.com/noweyh/MPR-CiteG) — API 기반 Retrieval-Augmented Generation 연구 (Multi-Portfolio Retriever + Citation-grounded Generation)
+- [IAP-AS](https://github.com/noweyh/IAP-AS) — LLM 기반 이미지 이상 탐지 연구 (Image-Aware Prompting for Anomaly Segmentation)
 - [HybRAG](https://github.com/noweyh/HybRAG) — Hybrid Node+Path Retriever for KGQA
 
 ---
