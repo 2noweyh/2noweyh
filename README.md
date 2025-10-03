@@ -21,8 +21,8 @@ GNN과 LLM 기반 연구를 진행하며, 주 분야는 RAG이고 최근에는 �
 ---
 
 ## 🔥 Featured Projects
-- [MPR-CiteG](https://github.com/noweyh/MPR-CiteG) — API 기반 Retrieval-Augmented Generation 연구 (Multi-Portfolio Retriever + Citation-grounded Generation)
-- [IAP-AS](https://github.com/noweyh/IAP-AS) — LLM 기반 이미지 이상 탐지 연구 (Image-Aware Prompting for Anomaly Segmentation)
+- [MPR-CiteG](https://github.com/2noweyh/MPR-CiteG) — API 기반 Retrieval-Augmented Generation 연구 (Multi-Portfolio Retriever + Citation-grounded Generation)
+- [IAP-AS](https://github.com/2noweyh/IAP-AS) — LLM 기반 이미지 이상 탐지 연구 (Image-Aware Prompting for Anomaly Segmentation)
 - [HybRAG](https://github.com/2noweyh/HybRAG) — Hybrid Node+Path Retriever for KGQA
 
 ---
