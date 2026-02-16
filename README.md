@@ -7,7 +7,7 @@ Recently, I’ve been deeply engaged in advancing Graph RAG methodologies that i
 ---
 
 ## 🚀 About Me
-- 🔭 Current Research: GraphRAG 및 RAG 기반 KGQA
+- 🔭 Current Research: GraphRAG, RAG based-KGQA
 - 📚 Research Areas: Graph Neural Network(GNN), Large Language Models(LLM), Retrieval-Augmented Generation(RAG)
 - 🌱 Recent Interests: Multilingual RAG, LLM Fine-tuning
 - 📫 Contact: [noweyh927@gmail.com](mailto:noweyh927@gmail.com)
