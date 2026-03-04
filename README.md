@@ -16,7 +16,6 @@ Recently, I’ve been deeply engaged in advancing Graph RAG methodologies that i
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=noweyh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=noweyh&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=noweyh&theme=tokyonight&hide_border=true)
 
 ---
