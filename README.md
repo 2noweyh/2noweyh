@@ -9,7 +9,7 @@ Currently a Post-Master's Researcher at **Korea Atomic Energy Research Institute
 
 ## 🚀 About Me
 
-- 🔭 **Current Research** — GraphRAG, RAG-based KGQA, hybrid retrievers
+- 🔭 **Current Research** — GraphRAG, RAG, Agentic RAG
 - 📚 **Research Areas** — Graph Neural Networks (GNN) · Large Language Models (LLM) · Retrieval-Augmented Generation (RAG)
 - 🌱 **Recent Interests** — Multilingual RAG, LLM fine-tuning, reasoning-enhanced retrieval
 - 🏢 **Affiliation** — KAERI, Post-Master's Researcher (2026.03 – present)
