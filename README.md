@@ -33,7 +33,7 @@ Currently a Post-Master's Researcher at **Korea Atomic Energy Research Institute
 
 ---
 
-## 🛠 Tech Stack
+% ## 🛠 Tech Stack
 
 **Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
