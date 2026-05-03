@@ -19,7 +19,6 @@ Currently a Post-Master's Researcher at **Korea Atomic Energy Research Institute
 ## 🏆 Recent Highlights
 
 - 📄 **SCIE** · [*Hybrid Retrieval-Augmented Generation*](https://www.mdpi.com/2076-3417/16/5/2244) — **Applied Sciences (MDPI)**, 2026.02 · *First author*
-- 📄 **SCIE** · *Sequence-aware Adaptive GCRN for Traffic Forecasting* — Knowledge-Based Systems, 2025.11
 - 📄 *Zero-Shot Industrial Anomaly Segmentation with Image-Aware Prompt Generation* — **PAKDD 2025** · *Co-first author*
 - 🏆 **2nd Place · KISTI President's Award** — ScienceON AI Challenge 2025
 - 🏅 **4th Place Special Award** — CIKM 2025 AnalytiCup (Alibaba Intl.)
