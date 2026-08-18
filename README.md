@@ -54,11 +54,4 @@ Currently a Post-Master's Researcher at **Korea Atomic Energy Research Institute
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=2noweyh&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=2noweyh&theme=tokyonight&hide_border=true)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=2noweyh&color=blue)
